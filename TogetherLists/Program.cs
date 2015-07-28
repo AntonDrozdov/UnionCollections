@@ -56,8 +56,8 @@ namespace TogetherLists
         {
             List<Item> items1 = new List<Item>
             {
-                new Item(1,"sadf"),
-                new Item(2,"qwer"),
+                new Item(1,"saasdfdf"),
+                new Item(2,"gfhdghfghfghfghf"),
                 new Item(3,"sdfg"),
                 new Item(4,"erty")
             };
