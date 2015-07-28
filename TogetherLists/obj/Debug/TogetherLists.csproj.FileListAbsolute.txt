@@ -1,0 +1,6 @@
+E:\DEVELOP\CommonProjects\TogetherLists\TogetherLists\bin\Debug\TogetherLists.exe.config
+E:\DEVELOP\CommonProjects\TogetherLists\TogetherLists\obj\Debug\TogetherLists.csprojResolveAssemblyReference.cache
+E:\DEVELOP\CommonProjects\TogetherLists\TogetherLists\bin\Debug\TogetherLists.exe
+E:\DEVELOP\CommonProjects\TogetherLists\TogetherLists\bin\Debug\TogetherLists.pdb
+E:\DEVELOP\CommonProjects\TogetherLists\TogetherLists\obj\Debug\TogetherLists.exe
+E:\DEVELOP\CommonProjects\TogetherLists\TogetherLists\obj\Debug\TogetherLists.pdb
