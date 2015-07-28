@@ -57,13 +57,13 @@ namespace TogetherLists
             List<Item> items1 = new List<Item>
             {
                 new Item(1,"saasdfdf"),
-                new Item(2,"gfhdghfghfghfghf"),
+                new Item(2,"gfhdghfghfghfghf"),//change1
                 new Item(3,"sdfg"),
                 new Item(4,"erty")
             };
             List<Item> items2 = new List<Item>
             {
-                new Item(5,"rtyu"),
+                new Item(5,"rtyuafsadfasfddfsd"),//change2
                 new Item(6,"vbnm"),
                 new Item(3,"sdfg"),
                 new Item(4,"erty")
